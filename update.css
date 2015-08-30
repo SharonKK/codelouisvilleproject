@@ -78,7 +78,8 @@ a: click {
 footer {
     text-align: center;
     font-size: 2em;
-    color: purple;
+    color: #474747;
+    border: 3px solid purple;
     
 }
 
