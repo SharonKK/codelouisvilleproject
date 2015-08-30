@@ -40,7 +40,7 @@ h1 {
 }
 
 
-img. center-block {
+.img center-block {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -81,70 +81,17 @@ footer {
     color: purple;
     
 }
-    
-=======
-  max-width: 100%;
-}
 
-header img {
-  paddding:0 25%;
-  background-color: #b9b5a;
-}
 
-body {
-  font-family: 'Open + Sans', sans-serif
-  color:#333;
-}
 
-p {
-  font-size:32px;
-  text-align: justify;
- }
- 
-h1 {
-  text-align: center;
-  color: #474747;
-  background-color: #ebebe9;
-  }
-  
-.container {
-  background-color: #ebebe9;
-  }
-  
-.container {
-  clearfix;
-  }
 
-img. center-block {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 
-.row .col-sm-6 a {
-  column-count: @count;
-  padding-left: 80px;
-  fpmt-size: 32px;
-}
 
-.row img {
-  padding-left: 150px;
-}
 
-a: hover {
-  color: purple;
-}
 
-a:click {
-  color: black;
-}
 
-footer {
-  text-align: center;
-  font-size: 2em;
-  color: #474747;
-  border: 3px solid purple;
-}  
+
+
 
 
 
